@@ -1,0 +1,28 @@
+not logging correctly for wireless								--
+	need names													--
+network ip is hardcoded										--	Fixed
+need list of emails/phone numbers to email to			-- Added
+	make sure does not repeatedly text and email		-- Added
+alarms																--	
+	min, mix, or min and max									--	
+	outside or inside band										--	
+graphing is slow with lots of data							--	requires major rewrite to fix
+need to open saved log files 									--	Done with analyzer
+change default logging time to 10 minutes				--
+	add setup file													--
+multiple loggers - depending on how hard					--
+auto restart														--
+	on crash, restart program									--	Fixed
+	load previous settings										--
+check network for available units							--
+	or enter setup file ip and model							--	Enabled
+Analyzing															--
+	after stopped													--
+	and from file													--
+	
+wireless logger does not record properly					-- 
+	could be reciever is not paired with central unit
+	
+	
+make sure if files do not exist it will not error				--
+make sure if file is not in correct format it will not fail	--
