@@ -5,11 +5,10 @@ need list of emails/phone numbers to email to			-- Added
 	make sure does not repeatedly text and email		-- Added
 alarms																--	Complete
 	min, mix, or min and max									--	Added
-	outside or inside band										--	Would never want to do.
 graphing is slow with lots of data							--	requires major rewrite to fix
 need to open saved log files 									--	Done with analyzer
 change default logging time to 10 minutes				-- Done
-	add setup file													-- 
+	add setup file													-- Added
 multiple loggers - depending on how hard					-- Requires major program rewrite
 auto restart														--
 	on crash, restart program									--	Fixed
@@ -19,8 +18,4 @@ check network for available units							-- Going to take a lot of time. Likely b
 Analyzing															-- Complete for smaller logger
 	
 wireless logger does not record properly					-- 
-	could be reciever is not paired with central unit
-	
-	
-make sure if files do not exist it will not error				--
-make sure if file is not in correct format it will not fail	--
+	could be reciever is not paired with central unit		--	
